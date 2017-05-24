@@ -1,0 +1,25 @@
+
+
+$ git clone git@github.com:canxiajiuwu/Vue-demo.git
+*下载自己git上的项目*
+
+
+$ git add 胡家华sb.txt
+*添加到缓存的文件名*
+
+$ git commit -m "胡家华sb"
+*写上传描述介绍*
+
+$ git push -u origin master
+*上传到我的git*
+
+
+*确定远程库的位置*
+$ git remote add art git@github.com:Artmagic/Vue-demo.git
+
+*查看远程库*
+$ git remote
+
+*下载更新*
+$ git pull art master
+
